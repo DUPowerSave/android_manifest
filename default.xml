@@ -561,5 +561,6 @@
 
   <!-- Add all tracked DU/AOSP repos -->
   <include name="n7x_default.xml" />
+  <include name="dups_default.xml" />
 
 </manifest>
